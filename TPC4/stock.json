@@ -1,0 +1,242 @@
+[
+    {
+        "cod": "A01",
+        "nome": "Água Mineral 0.5L",
+        "quant": 10,
+        "preco": 0.7
+    },
+    {
+        "cod": "A02",
+        "nome": "Água com Limão",
+        "quant": 8,
+        "preco": 0.9
+    },
+    {
+        "cod": "A03",
+        "nome": "Refrigerante de Laranja",
+        "quant": 7,
+        "preco": 1.2
+    },
+    {
+        "cod": "A04",
+        "nome": "Refrigerante de Cola 0.5L",
+        "quant": 6,
+        "preco": 1.4
+    },
+    {
+        "cod": "A05",
+        "nome": "Sumo Tropical 0.33L",
+        "quant": 6,
+        "preco": 1.1
+    },
+    {
+        "cod": "A06",
+        "nome": "Ice Tea Manga",
+        "quant": 5,
+        "preco": 1.2
+    },
+    {
+        "cod": "A07",
+        "nome": "Bebida Energética",
+        "quant": 5,
+        "preco": 1.8
+    },
+    {
+        "cod": "A08",
+        "nome": "Café Gelado",
+        "quant": 4,
+        "preco": 1.3
+    },
+    {
+        "cod": "A09",
+        "nome": "Água Tónica",
+        "quant": 6,
+        "preco": 1.0
+    },
+    {
+        "cod": "A10",
+        "nome": "Sumo de Maçã Verde",
+        "quant": 6,
+        "preco": 1.2
+    },
+    {
+        "cod": "A11",
+        "nome": "Bolacha de Aveia",
+        "quant": 8,
+        "preco": 0.8
+    },
+    {
+        "cod": "A12",
+        "nome": "Mini Crackers",
+        "quant": 10,
+        "preco": 0.7
+    },
+    {
+        "cod": "A13",
+        "nome": "Mix de Bolachas Sortidas",
+        "quant": 6,
+        "preco": 1.2
+    },
+    {
+        "cod": "A14",
+        "nome": "Batata Frita Ondulada",
+        "quant": 10,
+        "preco": 1.3
+    },
+    {
+        "cod": "A15",
+        "nome": "Batata Frita BBQ",
+        "quant": 8,
+        "preco": 1.5
+    },
+    {
+        "cod": "A16",
+        "nome": "Tremoços",
+        "quant": 7,
+        "preco": 0.9
+    },
+    {
+        "cod": "A17",
+        "nome": "Amendoins Torrados",
+        "quant": 9,
+        "preco": 1.0
+    },
+    {
+        "cod": "A18",
+        "nome": "Mix Salgado",
+        "quant": 6,
+        "preco": 1.4
+    },
+    {
+        "cod": "A19",
+        "nome": "Barra de Proteína",
+        "quant": 5,
+        "preco": 1.8
+    },
+    {
+        "cod": "A20",
+        "nome": "Pipocas Salgadas",
+        "quant": 6,
+        "preco": 1.2
+    },
+    {
+        "cod": "A21",
+        "nome": "Chocolate com Amêndoas",
+        "quant": 5,
+        "preco": 1.5
+    },
+    {
+        "cod": "A22",
+        "nome": "Chocolate Branco e Bolacha",
+        "quant": 6,
+        "preco": 1.6
+    },
+    {
+        "cod": "A23",
+        "nome": "Chocolate de Caramelo",
+        "quant": 6,
+        "preco": 1.5
+    },
+    {
+        "cod": "A24",
+        "nome": "Bolo de Mel",
+        "quant": 5,
+        "preco": 1.3
+    },
+    {
+        "cod": "A25",
+        "nome": "Mini Donut com Açúcar",
+        "quant": 5,
+        "preco": 1.4
+    },
+    {
+        "cod": "A26",
+        "nome": "Muffin de Mirtilo",
+        "quant": 5,
+        "preco": 1.6
+    },
+    {
+        "cod": "A27",
+        "nome": "Croissant de Chocolate",
+        "quant": 8,
+        "preco": 1.2
+    },
+    {
+        "cod": "A28",
+        "nome": "Pastel de Maçã",
+        "quant": 5,
+        "preco": 1.5
+    },
+    {
+        "cod": "A29",
+        "nome": "Bolo de Cenoura",
+        "quant": 4,
+        "preco": 1.7
+    },
+    {
+        "cod": "A30",
+        "nome": "Mini Tarte de Amêndoa",
+        "quant": 6,
+        "preco": 1.4
+    },
+    {
+        "cod": "A31",
+        "nome": "Café Curto",
+        "quant": 15,
+        "preco": 0.6
+    },
+    {
+        "cod": "A32",
+        "nome": "Café Pingado",
+        "quant": 10,
+        "preco": 0.7
+    },
+    {
+        "cod": "A33",
+        "nome": "Meia de Leite",
+        "quant": 8,
+        "preco": 1.0
+    },
+    {
+        "cod": "A34",
+        "nome": "Latte Macchiato",
+        "quant": 8,
+        "preco": 1.3
+    },
+    {
+        "cod": "A35",
+        "nome": "Cappuccino",
+        "quant": 8,
+        "preco": 1.2
+    },
+    {
+        "cod": "A36",
+        "nome": "Chocolate Quente",
+        "quant": 7,
+        "preco": 1.3
+    },
+    {
+        "cod": "A37",
+        "nome": "Chá de Frutos Vermelhos",
+        "quant": 9,
+        "preco": 0.9
+    },
+    {
+        "cod": "A38",
+        "nome": "Chá de Hortelã",
+        "quant": 9,
+        "preco": 0.9
+    },
+    {
+        "cod": "A39",
+        "nome": "Leite com Cacau",
+        "quant": 6,
+        "preco": 1.2
+    },
+    {
+        "cod": "A40",
+        "nome": "Leite Natural",
+        "quant": 8,
+        "preco": 1.0
+    }
+]
