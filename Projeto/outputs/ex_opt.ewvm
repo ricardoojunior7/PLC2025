@@ -1,0 +1,33 @@
+PUSHI 0
+PUSHI 0
+START
+PUSHN 4
+JUMP L0
+L0:
+PUSHS "--- Inicio do Teste de Otimizacao ---"
+WRITES
+PUSHI 20
+STOREG 0
+PUSHS "x (esperado 20): "
+WRITES
+PUSHG 0
+WRITEI
+PUSHI 45
+STOREG 1
+PUSHS "y (esperado 45): "
+WRITES
+PUSHG 1
+WRITEI
+PUSHI 1
+STOREG 3
+PUSHS "Otimizacao: Este IF desapareceu, ficou so o writeln."
+WRITES
+PUSHI 10
+STOREG 2
+PUSHS "z (esperado 10): "
+WRITES
+PUSHG 2
+WRITEI
+PUSHS "--- Fim ---"
+WRITES
+STOP
