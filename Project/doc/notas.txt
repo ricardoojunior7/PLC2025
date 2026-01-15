@@ -1,0 +1,10 @@
+Por que razão escolhi estes?
+- ex2.pas (Fatorial): É o clássico. Tem de estar.
+
+- ex4.pas (Arrays): Prova que a tua gestão de memória (offset e alloc) funciona.
+
+- ex5.pas (BinToInt): É melhor que o ex3.pas (Primos) porque usa Strings e Funções, mostrando mais funcionalidades do teu compilador (incluindo o length e acesso str[i]).
+
+- ex_erro_semantico.pas: O teu ficheiro de erros semânticos está muito completo. Escolhi mostrar apenas os erros mais importantes no relatório para não ocupar muito espaço.
+
+- ex_opt.pas: Este é o teu trunfo. Prova que o "Extra" vale a pena.
